@@ -1,10 +1,12 @@
 # Git Guide
+
 ### 1. Config user
 ```
 git config --global user.name "Your Full Name"
 git config --global user.email "your-email-address"
 git config --list
 ```
+
 ### 2. Init git
 ```
 mkdir "Git Guide"
@@ -21,6 +23,7 @@ git status
 git commit -m "Commit message: brief description"
 git status
 ```
+
 ### 4. Create Branch
 ```
 git branch dir/branch-name
