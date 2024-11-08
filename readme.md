@@ -15,10 +15,10 @@ git init
 dir -hidden
 ```
 
-### 3. First Commit
+### 3. Commit
 ```
 git status
-git add .\file.ext
+git add <file>
 git status
 git commit -m "Commit message: brief description"
 git status
